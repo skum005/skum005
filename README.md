@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently focused on test automation, using tools such as Selenium, Rest Assured, and Cypress. <br>I am eager to collaborate with fellow test automation engineers to develop frameworks for web, mobile, and API automation. <br>Additionally, I am enhancing my skills by learning JavaScript and Cypress.<br>Fun fact - the very first automated test was created in the 1960s by NASA to test software for the Apollo missions!
-
+I am currently focused on test automation, using tools such as Selenium, Rest Assured, and Cypress. <br>I am eager to collaborate with fellow test automation engineers to develop frameworks for web, mobile, and API automation. <br>Additionally, I am enhancing my skills by learning JavaScript and Cypress.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh.sri52@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/santosh.sri52@gmail.com) 
