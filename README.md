@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently focused on test automation, using tools such as Selenium, Rest Assured, and Cypress. <br>I am eager to collaborate with fellow test automation engineers to develop frameworks for web, mobile, and API automation. <br>Additionally, I am enhancing my skills by learning JavaScript and Cypress.
+I am currently focused on test automation, using tools such as Selenium, Rest Assured, and Cypress. <br>I am eager to collaborate with fellow test automation engineers to develop frameworks for web, mobile, and API automation. <br>Additionally, I am enhancing my skills by learning various test automation tools like Cypress, Appium & Playwright and NFT tools like K6 & Jmeter. I have created few test automation framework repositories & tutorial repositories(you can find them under my public repos and please feel free to use them and share your thoughts/suggestions). 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh.sri52@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/santosh.sri52@gmail.com) 
